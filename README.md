@@ -9,4 +9,4 @@
 
 ## Ferramentas & Tecnologias
 
-[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,vscode,git,github,bash,linux,windows,)](https://github.com/uluscaz-ifrn)
+[![Skills](https://skillicons.dev/icons?i=vue,vuetify,ts,js,py,html,css,sass,git,github,bash,linux,)](https://github.com/uluscaz-ifrn)
