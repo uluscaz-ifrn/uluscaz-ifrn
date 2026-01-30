@@ -7,4 +7,4 @@
 
 ## Ferramentas & Tecnologias
 
-[![Skills](https://skillicons.dev/icons?i=py,ts,vue,vuetify,adonis,git,bash,)](https://github.com/uluscaz-ifrn)
+[![Skills](https://skillicons.dev/icons?i=ts,vue,vuetify,adonis,git,bash,)](https://github.com/uluscaz-ifrn)
